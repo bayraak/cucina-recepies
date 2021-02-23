@@ -1,8 +1,8 @@
 # Chicken Alfredo Pasta
 - Pasta
-- Alfredo souce
-- Permezan
+- Alfredo sauce
+- Parmesan
 
 
 >Chicken and alfredo sauce and pasta are mixed.
-Permezan on top.
+Parmesan on top.

@@ -1,4 +1,4 @@
-# Ajaskian Breakfast 
+# Ajaskian Omlette 
 - Avocado
 - Feta cheese
 

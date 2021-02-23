@@ -1,4 +1,6 @@
 # Ajaskian Omlette 
+
+- 3 Eggs
 - Avocado
 - Feta cheese
 

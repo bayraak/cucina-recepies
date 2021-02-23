@@ -1,6 +1,6 @@
 # Pasta Ala Curry
 - Chicken
-- Alfredo souce
+- Alfredo sauce
 - Mushrooms
 - Spinach
 - Garlic butter

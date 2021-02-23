@@ -1,11 +1,11 @@
 # Chicken Brocoli Pasta
 - Chicken
-- Alfredo souce
+- Alfredo sauce
 - Broccoli
 - Mozzarella
-- Permzan
+- Parmesan
 - Parsley
 - Butter
 
 >Chicken and broccoli in butter, a little alfredo sauce to tie and mozzarella.
-Put permazan and parsley on top.
+Put parmasan and parsley on top.

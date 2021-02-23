@@ -1,8 +1,8 @@
 # Baked Ziti Pasta
 - Pasta
-- Tomato souce
-- Alfredo souce
-- Pesto souce
+- Tomato sauce
+- Alfredo sauce
+- Pesto sauce
 - Mozzarella
 
 

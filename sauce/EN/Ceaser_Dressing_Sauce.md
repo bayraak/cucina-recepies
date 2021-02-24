@@ -1,0 +1,11 @@
+# Ceaser Dressing Sauce
+- 2 lemons
+- 2 bottles of mayonnaise
+- 4 cucumber pickles
+- 1 teaspoon of red pepper
+- 1 cup of permesan
+- 3 spoons of soy sauce
+- 4 spoons of workcester sauce
+- 2 tablespoons of senf
+- 1 teaspoon vegeta
+- 1 teaspoon of black pepper

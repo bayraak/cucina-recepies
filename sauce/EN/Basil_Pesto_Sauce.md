@@ -1,5 +1,5 @@
 # Basil Pesto Sauce
-- rocket
+- arugula
 - spinach
 - basil
 - olive oil

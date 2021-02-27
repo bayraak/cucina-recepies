@@ -1,4 +1,4 @@
-#Gluten Free Dought
+# Gluten Free Dought
 
 - 1 кг оризово брашно (од албис)
 - 1 кг брашно без глутен (од рамстор)

@@ -1,4 +1,4 @@
-#Classic White Dough
+# Classic White Dough
 - 10 кг бело брашно
 - 6 литри вода
 - 2 чаши маслиново масло

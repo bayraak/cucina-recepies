@@ -1,4 +1,4 @@
-#Gluten Free Dough
+# Gluten Free Dough
 - 1kg pirinç unu (albisin)
 - 1kg glutensiz un (ramstore)
 - yarım paket maya

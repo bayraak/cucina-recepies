@@ -1,4 +1,4 @@
-#Classic White Dough
+# Classic White Dough
 - 10 kg of white flour
 - 6 liters of water
 - 2 cups of olive oil

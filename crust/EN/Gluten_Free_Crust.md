@@ -1,4 +1,4 @@
-#Gluten Free Dough
+# Gluten Free Dough
 
 - 1kg of rice flour (albisin)
 - 1kg gluten-free flour (ramstore)

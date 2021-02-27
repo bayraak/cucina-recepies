@@ -14,3 +14,9 @@
 > Vegeta, sarimsak tozu, permesan, karabiber, origano, fesleğen ve ekmek tozunu bir kaba koyunuz.
 > Yumurta ve sütü bir kaba koyunuz.
 > Beyaz unu bir tepsiye koyunuz.
+
+
+>Sırasıyla tavuk etlerini:
+1 Un
+2 Yumurta ve süt
+3 Diğer tüm malzemeler

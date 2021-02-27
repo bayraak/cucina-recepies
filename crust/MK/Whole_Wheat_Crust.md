@@ -1,4 +1,4 @@
-#Whole Wheat Dough
+# Whole Wheat Dough
 - 150гр Самолина
 - 600мл вода
 - 2 лажици сол

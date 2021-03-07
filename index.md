@@ -1,1 +1,4 @@
-### Cucina Recepies
+---
+title: Homepage
+layout: home
+---

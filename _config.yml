@@ -1,1 +1,21 @@
-theme: jekyll-theme-cayman
+title: Cucina Pizza By Design Recepies
+description: This website is meant for viewing Cucina Pizza By Design Skopje Recepies
+
+url: "recepies.cucina.mk"
+baseurl: "/nested-jekyll-menus"
+
+exclude:
+  - docs/
+  - LICENSE
+  - README.md
+  - Makefile
+
+defaults:
+  - scope:
+      path: "**/index.md"
+    values:
+      layout: "listing"
+  - scope:
+      path: ""
+    values:
+      layout: "page"
